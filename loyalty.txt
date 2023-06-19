@@ -1,0 +1,8 @@
+Butch,2
+Scrooge,0
+Donald,1
+Marie,1
+Dewey,1
+Tom,0
+Jerry,3
+Spike,1

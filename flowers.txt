@@ -1,0 +1,9 @@
+Lily,3,93
+Rose,2,71
+Tulip,7,100
+Iris,4,100
+Daisy,1,100
+Orchid,9,92
+Dahlia,3,79
+Peony,2,95
+

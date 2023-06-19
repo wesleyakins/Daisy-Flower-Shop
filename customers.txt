@@ -1,0 +1,9 @@
+Scrooge,Male,1234
+Donald,Male,4345
+Butch,Male,3457
+Marie,Female,1235
+Dewey,Male,0
+Tom,Male,4567
+Jerry,Male,2879
+Spike,Male,5698
+
